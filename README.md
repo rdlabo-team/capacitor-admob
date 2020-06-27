@@ -1,3 +1,5 @@
+# This development is closed, and move to https://github.com/capacitor-community/admob
+
 [![npm version](https://badge.fury.io/js/%40rdlabo%2Fcapacitor-admob.svg)](https://badge.fury.io/js/%40rdlabo%2Fcapacitor-admob)
 
 # @rdlabo/capacitor-admib
